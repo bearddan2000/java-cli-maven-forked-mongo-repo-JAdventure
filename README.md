@@ -1,4 +1,4 @@
-# java-cli-maven-forked-mongo-repo-JAdventure
+# java-web-maven-spring-forked-mongo-repo-JAdventure
 
 ## Description
 A POC for REST web service using mongodb.
@@ -10,6 +10,7 @@ Uses spring's mongorepository.
 - java
 - maven
   - mongo connector
+  - spring
 - mongo
 
 ## Docker stack
